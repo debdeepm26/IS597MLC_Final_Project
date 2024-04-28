@@ -7,4 +7,4 @@
    1. XGBoost (Extreme Gradient Boosting)
    2. Random Forest
 3. The dataset and metadata are located in the [Dataset](Dataset) folder.
-4. Executing the whole scripts saves the two models in the [Result/Models](Result/Models) folder.
+4. Executing the whole scripts saves the images in [Result/Analysis Images](Result/Analysis%20Images) and the two models in the [Result/Models](Result/Models) folder.
