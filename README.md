@@ -2,7 +2,7 @@
 
 ## Machine Learning-Based Mushroom Edibility Assessment
 
-1. The main code for the whole application sits in the [Mushroom.ipynb](Mushroom.ipynb)
+1. The main notebook for the machine learning is the [Mushroom.ipynb](Mushroom.ipynb) in the root folder.
 2. For this project we will be training a Gradient Boosting Ensemble Model and a Bagging Ensemble Model and comparing model's performances:
    1. XGBoost (Extreme Gradient Boosting)
    2. Random Forest
